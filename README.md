@@ -9,6 +9,7 @@ My DSA and LeetCode Solutions
 | [0001-two-sum](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0881-boats-to-save-people](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -45,6 +46,7 @@ My DSA and LeetCode Solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0202-happy-number/) | Easy |
+| [0283-move-zeroes](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0881-boats-to-save-people](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Greedy
