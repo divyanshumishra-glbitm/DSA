@@ -11,6 +11,7 @@ My DSA and LeetCode Solutions
 | [0189-rotate-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0881-boats-to-save-people](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
