@@ -23,6 +23,7 @@ My DSA and LeetCode Solutions
 | [0977-squares-of-a-sorted-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/divyanshumishra-glbitm/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/divyanshumishra-glbitm/DSA/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
@@ -134,4 +135,8 @@ My DSA and LeetCode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1991-find-the-middle-index-in-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 <!---LeetCode Topics End-->
