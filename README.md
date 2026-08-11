@@ -11,6 +11,7 @@ My DSA and LeetCode Solutions
 | [0027-remove-element](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0055-jump-game/) | Medium |
 | [0075-sort-colors](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0169-majority-element/) | Easy |
@@ -49,6 +50,7 @@ My DSA and LeetCode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0055-jump-game/) | Medium |
 | [0509-fibonacci-number](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Recursion
@@ -74,6 +76,7 @@ My DSA and LeetCode Solutions
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0055-jump-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
