@@ -9,6 +9,7 @@ My DSA and LeetCode Solutions
 | [0001-two-sum](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0055-jump-game/) | Medium |
@@ -66,6 +67,7 @@ My DSA and LeetCode Solutions
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0202-happy-number/) | Easy |
