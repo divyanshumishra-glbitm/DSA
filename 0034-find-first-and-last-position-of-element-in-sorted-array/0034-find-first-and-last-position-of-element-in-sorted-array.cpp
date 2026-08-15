@@ -1,39 +1,43 @@
 class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
-        vector<int> ans(2, -1);
 
-        int start = 0, end = nums.size() - 1;
+        int n = nums.size();
 
-        while (start <= end) {
-            int mid = start + (end - start) / 2;
+        int low = 0, high = n - 1;
+        int lb = n;
 
-            if (nums[mid] == target) {
-                ans[0] = mid;
-                end = mid - 1;
-            } else if (nums[mid] < target) {
-                start = mid + 1;
+        // Lower bound
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+
+            if (nums[mid] >= target) {
+                lb = mid;
+                high = mid - 1;
             } else {
-                end = mid - 1;
+                low = mid + 1;
             }
         }
 
-        start = 0;
-        end = nums.size() - 1;
+        if (lb == n || nums[lb] != target)
+            return {-1, -1};
 
-        while (start <= end) {
-            int mid = start + (end - start) / 2;
+        low = 0;
+        high = n - 1;
+        int ub = n;
 
-            if (nums[mid] == target) {
-                ans[1] = mid;
-                start = mid + 1;
-            } else if (nums[mid] < target) {
-                start = mid + 1;
+        // Upper bound
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+
+            if (nums[mid] > target) {
+                ub = mid;
+                high = mid - 1;
             } else {
-                end = mid - 1;
+                low = mid + 1;
             }
         }
 
-        return ans;
+        return {lb, ub - 1};
     }
 };
