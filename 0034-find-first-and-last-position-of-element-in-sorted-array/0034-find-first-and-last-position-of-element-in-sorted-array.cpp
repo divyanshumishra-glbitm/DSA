@@ -1,43 +1,65 @@
 class Solution {
 public:
+
+    int firstO(vector<int>& nums, int target) {
+        int l = nums.size();
+        int first = -1;
+        int start = 0;
+        int end = l - 1;
+        int mid;
+
+        while (start <= end) {
+            mid = start + (end - start) / 2;
+
+            if (nums[mid] == target) {
+                first = mid;
+                end = mid - 1;
+            }
+            else if (nums[mid] > target) {
+                end = mid - 1;
+            }
+            else {
+                start = mid + 1;
+            }
+        }
+
+        return first;
+    }
+
+    int first1(vector<int>& nums, int target) {
+        int l = nums.size();
+        int last = -1;
+        int start = 0;
+        int end = l - 1;
+        int mid;
+
+        while (start <= end) {
+            mid = start + (end - start) / 2;
+
+            if (nums[mid] == target) {
+                last = mid;
+                start = mid + 1;
+            }
+            else if (nums[mid] > target) {
+                end = mid - 1;
+            }
+            else {
+                start = mid + 1;
+            }
+        }
+
+        return last;
+    }
+
     vector<int> searchRange(vector<int>& nums, int target) {
 
-        int n = nums.size();
+        int x = firstO(nums, target);
 
-        int low = 0, high = n - 1;
-        int lb = n;
-
-        // Lower bound
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-
-            if (nums[mid] >= target) {
-                lb = mid;
-                high = mid - 1;
-            } else {
-                low = mid + 1;
-            }
-        }
-
-        if (lb == n || nums[lb] != target)
+        if (x == -1)
             return {-1, -1};
 
-        low = 0;
-        high = n - 1;
-        int ub = n;
+        int y = first1(nums, target);
 
-        // Upper bound
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-
-            if (nums[mid] > target) {
-                ub = mid;
-                high = mid - 1;
-            } else {
-                low = mid + 1;
-            }
-        }
-
-        return {lb, ub - 1};
+        return {x, y};
     }
 };
