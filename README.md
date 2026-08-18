@@ -18,6 +18,7 @@ My DSA and LeetCode Solutions
 | [0055-jump-game](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0075-sort-colors/) | Medium |
+| [0118-pascals-triangle](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0189-rotate-array/) | Medium |
@@ -60,6 +61,7 @@ My DSA and LeetCode Solutions
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0055-jump-game/) | Medium |
+| [0118-pascals-triangle](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0509-fibonacci-number](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Recursion
