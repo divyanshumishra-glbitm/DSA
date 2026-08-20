@@ -41,6 +41,7 @@ My DSA and LeetCode Solutions
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/divyanshumishra-glbitm/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/divyanshumishra-glbitm/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/divyanshumishra-glbitm/DSA/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 ## Hash Table
@@ -174,6 +175,7 @@ My DSA and LeetCode Solutions
 | [0724-find-pivot-index](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/divyanshumishra-glbitm/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
