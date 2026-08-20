@@ -29,6 +29,7 @@ My DSA and LeetCode Solutions
 | [0283-move-zeroes](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0881-boats-to-save-people](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -129,6 +130,7 @@ My DSA and LeetCode Solutions
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0268-missing-number/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,6 +165,7 @@ My DSA and LeetCode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Matrix
@@ -171,4 +174,8 @@ My DSA and LeetCode Solutions
 | [0048-rotate-image](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 <!---LeetCode Topics End-->
