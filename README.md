@@ -36,6 +36,7 @@ My DSA and LeetCode Solutions
 | [0881-boats-to-save-people](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
@@ -171,6 +172,7 @@ My DSA and LeetCode Solutions
 | [0560-subarray-sum-equals-k](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0724-find-pivot-index/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
