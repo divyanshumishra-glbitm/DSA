@@ -34,6 +34,7 @@ My DSA and LeetCode Solutions
 | [0560-subarray-sum-equals-k](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0724-find-pivot-index/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -140,6 +141,7 @@ My DSA and LeetCode Solutions
 | [0268-missing-number](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0268-missing-number/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
