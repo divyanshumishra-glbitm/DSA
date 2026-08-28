@@ -19,6 +19,8 @@ public:
         int mid;
         int ans=-1;
 
+        if(threshold<n) return -1;
+
         while(start<=end){
             mid=start+(end-start)/2;
             if(sumD(nums,mid)<=threshold){
