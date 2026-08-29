@@ -42,6 +42,7 @@ My DSA and LeetCode Solutions
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
@@ -148,6 +149,7 @@ My DSA and LeetCode Solutions
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
