@@ -1,26 +1,19 @@
 class Solution { 
 public: 
     vector<int> majorityElement(vector<int>& nums) { 
-        vector<int> ans; 
  
-        int l = nums.size(); 
-        int x = l / 3; 
-         
-        map<int, int> mpp; 
+        vector<int> arr; 
+        map<int,int>mpp; 
+        int n=nums.size(); 
+        int mm=(int)n/3 +1; 
  
-        // Store frequency of every element
-        for(int i = 0; i < l; i++){ 
+        for(int i=0;i<n;i++){ 
             mpp[nums[i]]++; 
-        } 
-        
-        // Check all keys and their frequencies
-        for(auto it : mpp) {  
-             
-            if(it.second > x) {  
-                ans.push_back(it.first);  
-            } 
-        } 
  
-        return ans; 
+            if(mpp[nums[i]]==mm) 
+                arr.push_back(nums[i]); 
+        
+        }  
+        return arr; 
     } 
 };
