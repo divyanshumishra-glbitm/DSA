@@ -80,6 +80,7 @@ My DSA and LeetCode Solutions
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0118-pascals-triangle/) | Easy |
@@ -97,6 +98,7 @@ My DSA and LeetCode Solutions
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0018-4sum/) | Medium |
@@ -222,6 +224,7 @@ My DSA and LeetCode Solutions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0242-valid-anagram](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0796-rotate-string](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0796-rotate-string/) | Easy |
@@ -238,4 +241,8 @@ My DSA and LeetCode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0020-valid-parentheses/) | Easy |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
