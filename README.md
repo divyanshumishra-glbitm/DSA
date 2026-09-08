@@ -107,6 +107,7 @@ My DSA and LeetCode Solutions
 | [0027-remove-element](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0075-sort-colors/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0283-move-zeroes/) | Easy |
@@ -227,6 +228,7 @@ My DSA and LeetCode Solutions
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0796-rotate-string](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0796-rotate-string/) | Easy |
