@@ -16,6 +16,7 @@ My DSA and LeetCode Solutions
 | [0033-search-in-rotated-sorted-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0035-search-insert-position/) | Easy |
+| [0042-trapping-rain-water](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0054-spiral-matrix/) | Medium |
@@ -82,6 +83,7 @@ My DSA and LeetCode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0042-trapping-rain-water](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0118-pascals-triangle/) | Easy |
@@ -106,6 +108,7 @@ My DSA and LeetCode Solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0189-rotate-array/) | Medium |
@@ -241,6 +244,7 @@ My DSA and LeetCode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -249,4 +253,8 @@ My DSA and LeetCode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
