@@ -20,7 +20,7 @@ public:
         }
 
 
-        return end+1+k;
+        return start+k;
 
         
     }
