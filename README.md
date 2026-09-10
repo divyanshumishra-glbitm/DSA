@@ -109,6 +109,7 @@ My DSA and LeetCode Solutions
 | [0018-4sum](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0027-remove-element/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0075-sort-colors/) | Medium |
@@ -234,6 +235,7 @@ My DSA and LeetCode Solutions
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0242-valid-anagram/) | Easy |
@@ -243,6 +245,7 @@ My DSA and LeetCode Solutions
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0796-rotate-string](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0796-rotate-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -263,4 +266,16 @@ My DSA and LeetCode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
