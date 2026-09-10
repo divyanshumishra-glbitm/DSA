@@ -5,7 +5,7 @@ public:
      //i can do it using recursion
      string newstr;
      for(int i=0;i<n;i++){
-        if(s[i]!=' '&&(isalpha(s[i])||isalnum(s[i]))) newstr+=s[i];
+        if(s[i]!=' '&&isalnum(s[i])) newstr+=s[i];
      }
      transform(newstr.begin(),newstr.end(),newstr.begin(), ::tolower);
      string k=newstr;
