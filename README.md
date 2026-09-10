@@ -236,6 +236,7 @@ My DSA and LeetCode Solutions
 | [0005-longest-palindromic-substring](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0058-length-of-last-word](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0242-valid-anagram/) | Easy |
