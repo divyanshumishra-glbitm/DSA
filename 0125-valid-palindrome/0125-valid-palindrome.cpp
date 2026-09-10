@@ -1,20 +1,22 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-     int n=s.size();
-     //i can do it using recursion
-     string newstr;
-     for(int i=0;i<n;i++){
-        if(s[i]!=' '&&isalnum(s[i])) newstr+=s[i];
-     }
-     transform(newstr.begin(),newstr.end(),newstr.begin(), ::tolower);
-     string k=newstr;
-     reverse(k.begin(),k.end());
-     if(k==newstr) return true;
-     
+        int n=s.size();
+        int start=0;
+        int end=n-1;
+        while(start<end){
+            if(!isalnum(s[start])){
+                start++;
+            }else if(!isalnum(s[end])){
+                end--;
+            }else{
+                if(tolower(s[start])!=tolower(s[end])) return false;
 
-     
-
-      return false;  
+                start++;
+                end--;
+            }
+        }
+        
+        return true;
     }
 };
