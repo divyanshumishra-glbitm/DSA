@@ -123,6 +123,7 @@ My DSA and LeetCode Solutions
 | [0283-move-zeroes](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0881-boats-to-save-people](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/divyanshumishra-glbitm/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -131,6 +132,7 @@ My DSA and LeetCode Solutions
 | [0055-jump-game](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0055-jump-game/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0881-boats-to-save-people](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0881-boats-to-save-people/) | Medium |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -252,6 +254,7 @@ My DSA and LeetCode Solutions
 | [0796-rotate-string](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
