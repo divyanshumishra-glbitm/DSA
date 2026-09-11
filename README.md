@@ -68,6 +68,7 @@ My DSA and LeetCode Solutions
 | [0229-majority-element-ii](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0268-missing-number/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/divyanshumishra-glbitm/DSA/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
@@ -140,6 +141,7 @@ My DSA and LeetCode Solutions
 | [0229-majority-element-ii](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0268-missing-number/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0881-boats-to-save-people](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
@@ -197,6 +199,7 @@ My DSA and LeetCode Solutions
 | ------- | ------- |
 | [0169-majority-element](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0229-majority-element-ii/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -242,6 +245,7 @@ My DSA and LeetCode Solutions
 | [0151-reverse-words-in-a-string](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0796-rotate-string](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -281,4 +285,12 @@ My DSA and LeetCode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
