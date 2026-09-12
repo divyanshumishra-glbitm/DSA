@@ -69,6 +69,7 @@ My DSA and LeetCode Solutions
 | [0229-majority-element-ii](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0268-missing-number/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/divyanshumishra-glbitm/DSA/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
@@ -162,6 +163,7 @@ My DSA and LeetCode Solutions
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -203,6 +205,7 @@ My DSA and LeetCode Solutions
 | ------- | ------- |
 | [0169-majority-element](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0229-majority-element-ii/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
@@ -250,6 +253,7 @@ My DSA and LeetCode Solutions
 | [0151-reverse-words-in-a-string](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0796-rotate-string](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
