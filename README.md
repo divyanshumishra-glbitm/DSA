@@ -60,6 +60,7 @@ My DSA and LeetCode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0001-two-sum/) | Easy |
+| [0012-integer-to-roman](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -78,6 +79,7 @@ My DSA and LeetCode Solutions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0189-rotate-array/) | Medium |
@@ -248,6 +250,7 @@ My DSA and LeetCode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0012-integer-to-roman](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
