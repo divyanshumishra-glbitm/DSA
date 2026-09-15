@@ -86,6 +86,7 @@ My DSA and LeetCode Solutions
 | [0202-happy-number](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Dynamic Programming
@@ -103,6 +104,7 @@ My DSA and LeetCode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0326-power-of-three](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -197,6 +199,7 @@ My DSA and LeetCode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0268-missing-number/) | Easy |
+| [0342-power-of-four](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/divyanshumishra-glbitm/DSA/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 ## Quicksort
