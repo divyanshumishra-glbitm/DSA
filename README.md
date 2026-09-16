@@ -82,6 +82,7 @@ My DSA and LeetCode Solutions
 | [0012-integer-to-roman](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0070-climbing-stairs](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0268-missing-number/) | Easy |
@@ -96,6 +97,7 @@ My DSA and LeetCode Solutions
 | [0042-trapping-rain-water](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0055-jump-game/) | Medium |
+| [0070-climbing-stairs](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0509-fibonacci-number/) | Easy |
@@ -109,6 +111,7 @@ My DSA and LeetCode Solutions
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
