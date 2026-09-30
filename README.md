@@ -46,6 +46,7 @@ My DSA and LeetCode Solutions
 | [0977-squares-of-a-sorted-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -241,6 +242,7 @@ My DSA and LeetCode Solutions
 | [0560-subarray-sum-equals-k](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0724-find-pivot-index/) | Easy |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/divyanshumishra-glbitm/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -254,6 +256,7 @@ My DSA and LeetCode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
