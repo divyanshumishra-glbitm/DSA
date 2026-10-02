@@ -135,6 +135,7 @@ My DSA and LeetCode Solutions
 | [0189-rotate-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0881-boats-to-save-people](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
@@ -277,6 +278,7 @@ My DSA and LeetCode Solutions
 | [0151-reverse-words-in-a-string](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
