@@ -38,6 +38,7 @@ My DSA and LeetCode Solutions
 | [0485-max-consecutive-ones](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0682-baseball-game](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0682-baseball-game/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -238,6 +239,7 @@ My DSA and LeetCode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0054-spiral-matrix/) | Medium |
+| [0682-baseball-game](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0682-baseball-game/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/divyanshumishra-glbitm/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -303,6 +305,7 @@ My DSA and LeetCode Solutions
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0682-baseball-game](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0682-baseball-game/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/divyanshumishra-glbitm/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
