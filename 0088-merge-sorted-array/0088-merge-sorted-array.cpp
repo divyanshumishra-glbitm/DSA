@@ -29,10 +29,7 @@ public:
             nums.push_back(nums2[s]);
             s++;
         }
-        for(int i=0;i<m+n;i++){
-            nums1[i]=nums[i];
-        }
-
+        nums1=nums;
         
 
     }
