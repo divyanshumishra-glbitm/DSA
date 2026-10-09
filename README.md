@@ -87,6 +87,7 @@ My DSA and LeetCode Solutions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0048-rotate-image/) | Medium |
@@ -113,6 +114,7 @@ My DSA and LeetCode Solutions
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0326-power-of-three](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0509-fibonacci-number/) | Easy |
@@ -345,4 +347,8 @@ My DSA and LeetCode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
