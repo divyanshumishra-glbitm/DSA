@@ -351,4 +351,5 @@ My DSA and LeetCode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0002-add-two-numbers/) | Medium |
+| [0237-delete-node-in-a-linked-list](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
