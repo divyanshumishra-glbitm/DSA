@@ -115,6 +115,7 @@ My DSA and LeetCode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0002-add-two-numbers/) | Medium |
+| [0206-reverse-linked-list](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0509-fibonacci-number/) | Easy |
@@ -351,5 +352,6 @@ My DSA and LeetCode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0002-add-two-numbers/) | Medium |
+| [0206-reverse-linked-list](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/divyanshumishra-glbitm/DSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
